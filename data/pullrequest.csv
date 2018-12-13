@@ -1,0 +1,58 @@
+,repository,path,number,title,commiter,labels,is_bug
+0,icechen1/Notable,repositories/icechen1_Notable,16,French translation + README.md,52128872db3c7273c73340d10bd73732ac4e0be7,[],0
+1,icechen1/Notable,repositories/icechen1_Notable,13,Add jcenter() repo to buildscript deps,c0930e24a65284a8d2c523c045de151367c54b3b,[],0
+2,icechen1/Notable,repositories/icechen1_Notable,12,Code updates and new features,aa9a844d9532d1d22ff063885f69ee1a86875f90,[],0
+3,icechen1/Notable,repositories/icechen1_Notable,11,Useless parentheses around expressions should be removed,60c6eb7450aacf36d010d22ab3fc7eef1b791a67,[],1
+4,icechen1/Notable,repositories/icechen1_Notable,10,String literals should not be duplicated,f83fc83805e14a751b3c1d9b46902397a72edcdf,[],1
+5,icechen1/Notable,repositories/icechen1_Notable,8,The members of an interface declaration or class should appear in a pre-defined order,03ec37884402f07e51ab7ec5c1a8c23f42d5603e,[],0
+6,icechen1/Notable,repositories/icechen1_Notable,4,Added Japanese translation,90c527806e15a81835be6a16f0a0be1fd24b723b,[],0
+7,icechen1/Notable,repositories/icechen1_Notable,2,"Fix expanded text showing ""Notable""; disable ""expand buttons"" setting for Android 4.0-; refactoring",c0f8d1ab0cced9a79a62d9d79ffec9cb4bc8f688,[],1
+8,icechen1/Notable,repositories/icechen1_Notable,1,"Remove automatic second line, fix a crash, a little refactoring",b1f6f9ca23ae77172db4375efd967fdf4c729dde,[],1
+9,geecko86/QuickLyric,repositories/geecko86_QuickLyric,227,Fix LRC loading from Viewlyrics in case of several results,9f8da135469da0161f065b6e103d8ce6b3d4ae05,[],0
+10,geecko86/QuickLyric,repositories/geecko86_QuickLyric,221,Fixed PreferenceDialog close on orientation change,74bc76c3bc5b188ad0e70bcda4c642c861777669,[],0
+11,geecko86/QuickLyric,repositories/geecko86_QuickLyric,207,starting Recent Tracks,73ee6728b5f973bddd0b1259ea9c933b01ddca8f,[],0
+12,geecko86/QuickLyric,repositories/geecko86_QuickLyric,200,fix notification removal regression,36ae6b001f1f2cf203f291f2760b35308711441b,[],1
+13,geecko86/QuickLyric,repositories/geecko86_QuickLyric,190,"Fix lyrics lag active session, disable BroadcastReceiver API 19+",857f6e06f90a74e6335362921da9e1ed24405864,[],0
+14,geecko86/QuickLyric,repositories/geecko86_QuickLyric,171,get all songs from spotify ,406f70bdd6de5acb6572631225088d238878a32b,[],0
+15,geecko86/QuickLyric,repositories/geecko86_QuickLyric,159,Explicitly recycle the cover to avoid any OOM,3dd7ca99b31be63179b5d6285d6aa0bee18e650b,[],0
+16,geecko86/QuickLyric,repositories/geecko86_QuickLyric,158,Explicitly recycle the cover to avoid any OOM,521839dbdde3374170a4c9a71c7cf9697fad50b4,[],0
+17,geecko86/QuickLyric,repositories/geecko86_QuickLyric,119,Fixed Google+ link,5482b4d4a147862b930ea8846abbb82d479d9ddf,[],0
+18,geecko86/QuickLyric,repositories/geecko86_QuickLyric,88,try to fix search hint bug,ab0532beab7ddb4d9d8c939f291109c53f543115,[],1
+19,geecko86/QuickLyric,repositories/geecko86_QuickLyric,84,"Fix ""Ignore long tracks"" preference",faee238ae1da499a9b2e9f295386de44285a7524,[],0
+20,geecko86/QuickLyric,repositories/geecko86_QuickLyric,79,Update strings.xml,dbd95c7ad1a4600b7442c6d383a0e7002122de4f,[],0
+21,geecko86/QuickLyric,repositories/geecko86_QuickLyric,70,Search for JLyric,f023433057ec458b0a01b8623834d1dc159f5555,[],0
+22,geecko86/QuickLyric,repositories/geecko86_QuickLyric,50,Update README.md,78d1d3767ebe07024b29ff5c446054259337abb5,[],0
+23,geecko86/QuickLyric,repositories/geecko86_QuickLyric,47,Basic lololyrics.com support.,ef555fad8837d8140a717e964a2add03b712d85a,[],0
+24,geecko86/QuickLyric,repositories/geecko86_QuickLyric,39,"Notification improvements, round 2",9cf80b06d2698466bd06eb1b498d0acbf7c66895,[],0
+25,geecko86/QuickLyric,repositories/geecko86_QuickLyric,33,Notification improvements,ee856341ae6e1fafdd2e6847c7693a95d53493dd,[],0
+26,geecko86/QuickLyric,repositories/geecko86_QuickLyric,29,Add Serbian language,ad678474306bb5e5f6bee4edd2478f19c827b97a,[],0
+27,geecko86/QuickLyric,repositories/geecko86_QuickLyric,28,Added J-Lyric provider and jSoup for easier html parsing,e26cff54ebf3f465bae524e7f3d1f3a479aeb82f,[],0
+28,geecko86/QuickLyric,repositories/geecko86_QuickLyric,10,Update japanese translation,cff2483d366ffc1bcfa6b568268506ca3bca1fb6,[],0
+30,qqq3/good-weather,repositories/qqq3_good-weather,38,Added icons to preferences,9385e9932be1966fab96b79b63a2eebe02bd3918,[],0
+31,qqq3/good-weather,repositories/qqq3_good-weather,37,Added option to update location by intent from UnifiedNLP and server other improvements,fc3be86c6256153e304a03b2aae10292241033b0,[],0
+32,qqq3/good-weather,repositories/qqq3_good-weather,32,Restore widget theme and intents on update,fc1bd8f7f13edbbb4370892cb027a902191947f2,[],0
+33,qqq3/good-weather,repositories/qqq3_good-weather,27,New italian translation,83f93cb99c5856d8ed85f3aee4377ece32cb1182,[],0
+34,qqq3/good-weather,repositories/qqq3_good-weather,26,Turkish Translation,ceb550e54014b0ccdbfc7c9e3cca9a80b0d8a6c6,[],0
+35,qqq3/good-weather,repositories/qqq3_good-weather,25,Catalan translation,7f8f426f4d80bd2368a962cf40c922cbd7753780,[],0
+36,qqq3/good-weather,repositories/qqq3_good-weather,22,"Regular network location update, transparent theme, cs location",982f4c2d97fc71e2e90ebb03da006ada634bc53d,[],1
+37,qqq3/good-weather,repositories/qqq3_good-weather,19,Minor changes to German strings,e393e0788bdb1a47b0294a4ae2fd73b41665df43,[],0
+38,qqq3/good-weather,repositories/qqq3_good-weather,18,Update basque and spanish translations,2ab88ba7b7f06d2fc06078657f41e354447f74f1,[],0
+39,qqq3/good-weather,repositories/qqq3_good-weather,14,Add spanish translation,961ae2becab5046c02c35b53a2001fb9f073fb39,[],0
+40,qqq3/good-weather,repositories/qqq3_good-weather,12,Add option to disable weather description,2858ebcb0b6d81a3c1ff794b58bf9d180d3140c9,[],0
+41,qqq3/good-weather,repositories/qqq3_good-weather,6,Added Japanese translation,920d77a2fa5d1ca05c361d5338ffb9e698a48b34,[],0
+42,qqq3/good-weather,repositories/qqq3_good-weather,5,German translation corrections,36b4e54ffa1efbd36232ca77dddd278d57023669,[],1
+43,qqq3/good-weather,repositories/qqq3_good-weather,2,Add basque translation,b4420e903f307cf0ee5b7c9afeff30d90becc780,[],0
+44,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,60,Fix typo,886fce67463ae331eeb1e95cc848632da87cee36,[],0
+45,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,39,Use ScrollListener for current support library,3fb36ef5d4e4f4eab87f0b12f44e74b4775b3751,[],0
+46,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,35,"Bug Fixes, Refactoring and New Feature",ec99d2de5f6fd08c277a84e2c98ff5c7bb5abe61,[],1
+47,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,31,Fixes #30 Typo: Standardeinstellung,0f08fec9a9959a7ba3ff91954aa922d609abd45a,[],1
+48,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,29,Update welcome dialog,9040f996e1f1753048ce834fb5b834863ba12b97,[],0
+49,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,28,luiscruz contribution: refactor obsoleteLayoutParam,9391deb0936ed6e76317f2ede87efd858991448e,[],0
+50,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,27,Android automatic refactor ObsoleteLayoutParam,2db699ebd8be5b8ff3e8e5e5f1334ef199110027,[],0
+51,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,26,Point/Comma bug fix,eb17f680734c60f8027f22cbe4999409f8c60ecf,[],1
+52,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,23,japanese translation,9ebe6fa8f7f683550a537256e6824e34d468a710,[],0
+53,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,18,Alternative solution for #13,fa55d6d69be8428f3d78dbb1ae238f0b6cd9da70,[],0
+54,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,17,Reset list,1b6b6df9ff3e8e5962ebd5300475acb211a39060,[],0
+55,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,12,Font size according to device settings,f2fe1236aa8469f86911333ed30d9932093c39d4,[],0
+56,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,11,"Edit, Delete, Share dialog for products updated",465679e292a269aa2b4b167f83715e381ccf2a24,[],0
+57,SecUSo/privacy-friendly-shopping-list,repositories/SecUSo_privacy-friendly-shopping-list,9,"closes #7. Duplicate lists, Screen rotation, ScrollViews, Async Refactoring",91b51f71038f6758aa58ec4c79f69792d4813aad,[],1
